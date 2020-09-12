@@ -67,7 +67,7 @@ span{
 .slide{
     width: 100%;
     height: 120%;
-    background-image: url(/images/Slide1.jpg);
+    background-image: url(https://rmd.ac.in/Transenzia2k20/Slide1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
@@ -159,6 +159,9 @@ span{
 .about{
     display: flex;
     flex-direction: column;
+}
+.profile{
+    height: 65%;
 }
 .intro{
     padding: 25px;
